@@ -1,2 +1,2 @@
-# hello-world
-I am making my first repository.
+# robinson work
+Robinson chat for freshman.
